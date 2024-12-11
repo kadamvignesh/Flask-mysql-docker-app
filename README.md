@@ -1,5 +1,7 @@
 # Flask-mysql-docker-app
 
+This is a two-tier-web application, in which two containers are running under one network.
+
 1. git clone the project
 
 2. make sure docker is installed in your system
